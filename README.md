@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Taller de HTML5
 Estimado aprendiz, para este taller usted deberá crear su hoja de vida incluyendo su foto y los siguientes apartados:
 
